@@ -1,7 +1,7 @@
 ![logo](https://github.com/NaveenKumarPallanti/NaveenKumarPallanti/blob/main/my%20name.gif)
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Naveen kumar Pallanti</h1>
+<h1 align="center">👋, I'm Naveen kumar Pallanti</h1>
 <h3 align="center">Exploring the Intersection of Technology, Investments, Business, and the Underlying Mechanics</h3>
 
 <img align="right" alt="Bunny" width="400" src="https://github.com/NaveenKumarPallanti/NaveenKumarPallanti/blob/main/stu.gif">
